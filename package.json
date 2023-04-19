@@ -2,6 +2,11 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Aditya Oryza",
   "description": "A project that run server on localhost 3000",
+  "keywords": [
+    "freecodecamp",
+    "Back-End",
+    "Nodejs"
+  ],
   "dependencies": {
     "express": "^4.14.0"
   },
